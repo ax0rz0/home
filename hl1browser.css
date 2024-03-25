@@ -10,7 +10,7 @@ body {
 
 header {
     background-color: #333;
-    color: #fff;
+    color: orange;
     text-align: center;
     padding: 20px 0;
 }
@@ -25,7 +25,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: orange;
     text-decoration: none;
 }
 
@@ -33,11 +33,21 @@ main {
     padding: 20px;
 }
 
+margin {
+    color: orange;
+}
+
+
+a {
+    color: orange;
+}
+
 
 
 h3 {
     font-family: monospace;
 }
+
 
 
 
@@ -79,3 +89,5 @@ h3 {
 .footer a:hover {
     text-decoration: underline;
 }
+
+
